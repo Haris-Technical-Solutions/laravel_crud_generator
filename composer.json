@@ -1,5 +1,5 @@
 {
-    "name": "hts/crud-generator",
+    "name": "hts/laravel_crud_generator",
     "description": "Laravel Crud Generator",
     "license": "MIT",
     "authors": [

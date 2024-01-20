@@ -1,6 +1,6 @@
 <?php
 
-namespace Ibex\CrudGenerator\Commands;
+namespace Hts\CrudGenerator\Commands;
 
 use Illuminate\Support\Str;
 
